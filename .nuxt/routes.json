@@ -1,12 +1,5 @@
 [
   {
-    "name": "inspire",
-    "path": "/inspire",
-    "component": "/home/luiz/Documents/aaamat/pages/inspire.vue",
-    "chunkName": "pages/inspire",
-    "_name": "_bfa3a0a8"
-  },
-  {
     "name": "index",
     "path": "/",
     "component": "/home/luiz/Documents/aaamat/pages/index.vue",
