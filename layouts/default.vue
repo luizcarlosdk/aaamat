@@ -1,5 +1,6 @@
 <template>
   <v-app dark>
+    <Header />
     <NavBar />
   </v-app>
 </template>
